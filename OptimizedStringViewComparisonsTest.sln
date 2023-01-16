@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OptimizedStringViewComparisonsTest", "OptimizedStringViewComparisonsTest\OptimizedStringViewComparisonsTest.vcxproj", "{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Debug|x64.ActiveCfg = Debug|x64
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Debug|x64.Build.0 = Debug|x64
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Debug|x86.Build.0 = Debug|Win32
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Release|x64.ActiveCfg = Release|x64
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Release|x64.Build.0 = Release|x64
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Release|x86.ActiveCfg = Release|Win32
+		{ECC2E594-B7BF-4F68-8EFE-DF972FA8CDE4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87EA38A1-6F77-4CB4-A275-61C55C362F51}
+	EndGlobalSection
+EndGlobal
